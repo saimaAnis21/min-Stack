@@ -1,19 +1,5 @@
 
-class Stack
-
-  def push(number)
-    # your code here
-  end
-  
-  def pop
-    # your code here
-  end
-  
-  def min
-    # your code here
-  end
-
-end
+require_relative 'Stack'
 
 stack = Stack.new
 stack.push(3)
